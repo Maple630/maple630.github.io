@@ -1,0 +1,39 @@
+html, body {
+  width: 100%;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-position: center;
+  background-image: url(header.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div.title p {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-size: 35px;
+  margin-top: 12rem;
+  margin-bottom: 7rem;
+}
+
+div.explore {
+  text-align: center;
+}
+
+hr {
+  width: 60px;
+  border: 1px solid #d9534f;
+}
+
+.btn {
+  margin-top: 1em;
+  border-radius: 24px;
+  font-size: 14px;
+}
